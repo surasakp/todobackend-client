@@ -1,0 +1,4 @@
+app:
+  image: bell/todobackend-client
+  ports:
+    - 3000:3000
